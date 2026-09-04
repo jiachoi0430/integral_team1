@@ -1,3 +1,3 @@
-experiment_id,adsorbent,adsorbent_mass_g,dye_concentration,time_min,r,g,b
-#실험 번호, 흡착제 종류, 흡착제 질량(g), 염료 농도, 시간(분), R 값, G 값, B 값
-EXP001,none,0,1.0,0,210,35,42
+experiment_id,adsorbent,adsorbent_mass_g,dye_concentration,time_min,r,g,b,clear
+#실험 번호, 흡착제 종류, 흡착제 질량(g), 염료 농도, 시간(분), R 값, G 값, B 값, 투명도
+EXP001,none,0,1.0,0,210,35,42,255

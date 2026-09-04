@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+models/*.joblib
+data/processed/*.csv
+.streamlit/secrets.toml
